@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName victekmachinery.com
+AuthUserFile /usr/home/victek/www/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /usr/home/victek/www/htdocs/_vti_pvt/service.grp

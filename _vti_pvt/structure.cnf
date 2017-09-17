@@ -1,0 +1,41 @@
+3.0.0.507
+1040
+1000,index.htm,0,Welcome to Victek Machinery\, Inc.,0,1204572897,1
+vti_globalpage:BW|true
+1001,bandsaws.htm,0,Band Saws,0,1204375034,1
+vti_globalpage:BW|true
+1002,edm.htm,0,EDM,0,1204373931,1
+vti_globalpage:BW|true
+1003,grinder.htm,0,Grinder,0,1204373931,1
+vti_globalpage:BW|true
+1010,sid:1010,0,Bandsaws,0,1204534448,2
+vti_globalpage:BW|true
+vti_navsequence:BW|true
+1015,sid:1015,0,Home,0,1204534550,2
+vti_globalpage:BW|true
+vti_navsequence:BW|true
+1009,s_type.htm,0,S-Series,1001,1204574365,0
+1006,h_type.htm,0,H-Series,1001,1204574365,0
+1007,v_type.htm,0,V-Series,1001,1204574365,0
+1008,p_type.htm,0,P-Series,1001,1204574365,0
+1034,cw-series.htm,0,CW-Series,1002,1212795406,0
+1035,es-series.htm,0,ES-Series,1002,1212795406,0
+1036,hd-series.htm,0,HD-Series,1002,1212870373,0
+1038,tr-series.htm,0,TR-Series,1002,1212880568,0
+1025,u2.htm,0,U2,1003,1212717301,0
+1020,h_type.htm,0,H-Series,1010,1212701286,0
+1021,p_type.htm,0,P-Series,1010,1204574404,0
+1022,s_type.htm,0,S-Series,1010,1204574404,0
+1023,v_type.htm,0,V-Series,1010,1204574404,0
+1016,bandsaws.htm,0,Band Saws,1015,1204534550,0
+1017,edm.htm,0,EDM,1015,1204534550,0
+1018,grinder.htm,0,Grinder,1015,1204534550,0
+1039,contact.htm,0,Contact,1015,1213985144,0
+1026,power_s.htm,0,Power Band Saws,1009,1212769093,0
+1027,fully_automatic_s.htm,0,Fully Automatic,1009,1212769086,0
+1028,miter_cutting_s.htm,0,Miter Cutting,1009,1212769076,0
+1029,double_column_h.htm,0,Double Column,1006,1212769183,0
+1030,fully_automatic_h.htm,0,Fully Automatic,1006,1212769191,0
+1031,heavy_duty_fully_automatic_h.htm,0,Heavy Duty,1006,1212769264,0
+1032,billet_h.htm,0,Billet,1006,1212769177,0
+1037,cnc.htm,0,CNC,1006,1212873306,0
